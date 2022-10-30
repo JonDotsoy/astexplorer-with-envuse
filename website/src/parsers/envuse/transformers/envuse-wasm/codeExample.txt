@@ -1,0 +1,12 @@
+# Comment
+# Second line to de comment
+
+# Comment to the next variable
+PORT: number = 3000
+FOO = "Default Value to FOO"
+
+# Variable with default value
+BAZ: boolean
+
+# Only VARIABLE declaration
+BIZ
